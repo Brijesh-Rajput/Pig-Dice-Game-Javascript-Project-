@@ -2,7 +2,7 @@
 
 NOTE:- HTML and CSS file(Code) of this Project is not written by me. I have written only JS file for this project. This project is not responsive(only Desktop version).
 
-GAME:- Pig Game
+GAME:- Pig Game (Live Project. Link:- https://pig-dice-game-javascript-project.netlify.app/ )
 
 //Working of Game and their Rules:-
 1. Initially game will start with player1(1st chance will be given to player1). 
